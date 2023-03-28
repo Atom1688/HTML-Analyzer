@@ -1,1 +1,1 @@
-# HtmlAnalyzer
+EASTER_EGG_URLS
